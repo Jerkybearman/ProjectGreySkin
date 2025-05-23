@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\bootcamp\\testgithub\\projectgreyskin\\proceduralmapmaker\\source\\proceduralmapmaker\\proceduralmapmaker.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\bootcamp\\testgithub\\projectgreyskin\\proceduralmapmaker\\intermediate\\build\\win64\\x64\\proceduralmapmakereditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\bootcamp\\testgithub\\projectgreyskin\\proceduralmapmaker\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\proceduralmapmaker\\definitions.proceduralmapmaker.h",
+            "c:\\bootcamp\\testgithub\\projectgreyskin\\proceduralmapmaker\\source\\proceduralmapmaker\\proceduralmapmaker.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
